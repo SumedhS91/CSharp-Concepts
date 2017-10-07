@@ -1,0 +1,10 @@
+G:\Cs Work\oop\oopp\StaticCls\bin\Debug\StaticCls.exe
+G:\Cs Work\oop\oopp\StaticCls\bin\Debug\StaticCls.pdb
+G:\Cs Work\oop\oopp\StaticCls\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Cs Work\oop\oopp\StaticCls\obj\x86\Debug\StaticCls.exe
+G:\Cs Work\oop\oopp\StaticCls\obj\x86\Debug\StaticCls.pdb
+G:\Cs_Work\oop\oopp\StaticCls\bin\Debug\StaticCls.exe
+G:\Cs_Work\oop\oopp\StaticCls\bin\Debug\StaticCls.pdb
+G:\Cs_Work\oop\oopp\StaticCls\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Cs_Work\oop\oopp\StaticCls\obj\x86\Debug\StaticCls.exe
+G:\Cs_Work\oop\oopp\StaticCls\obj\x86\Debug\StaticCls.pdb

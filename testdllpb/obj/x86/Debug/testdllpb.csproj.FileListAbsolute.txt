@@ -1,0 +1,5 @@
+G:\Cs_Work\oop\oopp\testdllpb\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Cs_Work\oop\oopp\testdllpb\bin\Debug\testdllpb.exe
+G:\Cs_Work\oop\oopp\testdllpb\bin\Debug\testdllpb.pdb
+G:\Cs_Work\oop\oopp\testdllpb\obj\x86\Debug\testdllpb.exe
+G:\Cs_Work\oop\oopp\testdllpb\obj\x86\Debug\testdllpb.pdb

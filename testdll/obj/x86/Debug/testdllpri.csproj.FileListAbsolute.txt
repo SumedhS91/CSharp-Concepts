@@ -1,0 +1,5 @@
+G:\Cs_Work\oop\oopp\testdll\obj\x86\Debug\testdll.exe
+G:\Cs_Work\oop\oopp\testdll\obj\x86\Debug\testdll.pdb
+G:\Cs_Work\oop\oopp\testdll\bin\Debug\testdll.exe
+G:\Cs_Work\oop\oopp\testdll\bin\Debug\testdll.pdb
+G:\Cs_Work\oop\oopp\testdll\obj\x86\Debug\ResolveAssemblyReference.cache
