@@ -1,0 +1,10 @@
+G:\Cs Work\oop\oopp\AbstractCls\bin\Debug\AbstractCls.exe
+G:\Cs Work\oop\oopp\AbstractCls\bin\Debug\AbstractCls.pdb
+G:\Cs Work\oop\oopp\AbstractCls\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Cs Work\oop\oopp\AbstractCls\obj\x86\Debug\AbstractCls.exe
+G:\Cs Work\oop\oopp\AbstractCls\obj\x86\Debug\AbstractCls.pdb
+G:\Cs_Work\oop\oopp\AbstractCls\bin\Debug\AbstractCls.exe
+G:\Cs_Work\oop\oopp\AbstractCls\bin\Debug\AbstractCls.pdb
+G:\Cs_Work\oop\oopp\AbstractCls\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Cs_Work\oop\oopp\AbstractCls\obj\x86\Debug\AbstractCls.exe
+G:\Cs_Work\oop\oopp\AbstractCls\obj\x86\Debug\AbstractCls.pdb
