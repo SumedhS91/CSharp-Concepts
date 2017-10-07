@@ -1,0 +1,10 @@
+G:\Cs Work\oop\oopp\cmath\bin\Debug\cmath.dll
+G:\Cs Work\oop\oopp\cmath\bin\Debug\cmath.pdb
+G:\Cs Work\oop\oopp\cmath\obj\Debug\ResolveAssemblyReference.cache
+G:\Cs Work\oop\oopp\cmath\obj\Debug\cmath.dll
+G:\Cs Work\oop\oopp\cmath\obj\Debug\cmath.pdb
+G:\Cs_Work\oop\oopp\cmath\bin\Debug\cmath.dll
+G:\Cs_Work\oop\oopp\cmath\bin\Debug\cmath.pdb
+G:\Cs_Work\oop\oopp\cmath\obj\Debug\ResolveAssemblyReference.cache
+G:\Cs_Work\oop\oopp\cmath\obj\Debug\cmath.dll
+G:\Cs_Work\oop\oopp\cmath\obj\Debug\cmath.pdb

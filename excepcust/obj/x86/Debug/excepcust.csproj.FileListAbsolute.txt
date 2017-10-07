@@ -1,0 +1,5 @@
+G:\Cs_Work\oop\oopp\excepcust\bin\Debug\excepcust.exe
+G:\Cs_Work\oop\oopp\excepcust\bin\Debug\excepcust.pdb
+G:\Cs_Work\oop\oopp\excepcust\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Cs_Work\oop\oopp\excepcust\obj\x86\Debug\excepcust.exe
+G:\Cs_Work\oop\oopp\excepcust\obj\x86\Debug\excepcust.pdb

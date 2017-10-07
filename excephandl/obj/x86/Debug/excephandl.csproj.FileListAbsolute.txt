@@ -1,0 +1,5 @@
+G:\Cs_Work\oop\oopp\excephandl\bin\Debug\excephandl.exe
+G:\Cs_Work\oop\oopp\excephandl\bin\Debug\excephandl.pdb
+G:\Cs_Work\oop\oopp\excephandl\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Cs_Work\oop\oopp\excephandl\obj\x86\Debug\excephandl.exe
+G:\Cs_Work\oop\oopp\excephandl\obj\x86\Debug\excephandl.pdb
