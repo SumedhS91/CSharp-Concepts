@@ -1,0 +1,10 @@
+G:\Cs Work\oop\oopp\interfac\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Cs Work\oop\oopp\interfac\bin\Debug\interfac.exe
+G:\Cs Work\oop\oopp\interfac\bin\Debug\interfac.pdb
+G:\Cs Work\oop\oopp\interfac\obj\x86\Debug\interfac.exe
+G:\Cs Work\oop\oopp\interfac\obj\x86\Debug\interfac.pdb
+G:\Cs_Work\oop\oopp\interfac\bin\Debug\interfac.exe
+G:\Cs_Work\oop\oopp\interfac\bin\Debug\interfac.pdb
+G:\Cs_Work\oop\oopp\interfac\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Cs_Work\oop\oopp\interfac\obj\x86\Debug\interfac.exe
+G:\Cs_Work\oop\oopp\interfac\obj\x86\Debug\interfac.pdb

@@ -1,0 +1,5 @@
+G:\Cs_Work\oop\oopp\player\bin\Debug\player.dll
+G:\Cs_Work\oop\oopp\player\bin\Debug\player.pdb
+G:\Cs_Work\oop\oopp\player\obj\Debug\ResolveAssemblyReference.cache
+G:\Cs_Work\oop\oopp\player\obj\Debug\player.dll
+G:\Cs_Work\oop\oopp\player\obj\Debug\player.pdb
